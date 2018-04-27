@@ -1,0 +1,8 @@
+/*font-family: 'Righteous', cursive;// //Display font/header//
+//font-family: 'Karla', sans-serif;*/
+h1{
+  font-family: 'Righteous', cursive;
+}
+h2, h3, h4, p{
+  font-family: 'Karla', sans-serif;
+}
