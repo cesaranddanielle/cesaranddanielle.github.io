@@ -8,7 +8,20 @@ h1{
 h2, h3, h4, p{
   font-family: 'Karla', sans-serif;
 }
+ul li a{
+  color: black;
+  font-family: 'Karla', sans-serif;
+}
+a:visited {
+    color: black;
+}
+/* a:hover{
+  color: none;
+} */
 .button{
   background: rgb(233, 206, 255);
 }
 /* lavender */
+.cen{
+  text-align: center;
+}
