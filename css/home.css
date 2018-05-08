@@ -25,3 +25,7 @@ a:visited {
 .cen{
   text-align: center;
 }
+.thumbnail{
+  height: auto;
+  width: auto;
+}
