@@ -1,0 +1,13 @@
+#canvas{
+  background:rgb(185, 192, 204);
+  width:800px;
+  height:10000px;
+  margin:0 auto;
+  position:relative;
+
+}
+#lunch {width:300px;
+  position:absolute;
+  top:200px;
+  left:250px;
+}
