@@ -1,0 +1,35 @@
+h1, h2, h3, h4,p{
+  font-family: 'Poppins', sans-serif;
+}
+body{
+  background:rgb(185, 192, 204);
+}
+#canvas{
+  width:900px;
+  height:10000px;
+  margin:0 auto;
+  position:relative;
+
+}
+#name {width:400px;
+  background-color:black;
+  color:white;
+  padding:2px;
+  font-family: 'Poppins', sans-serif;
+  text-align: center;
+  position:absolute;
+  top:80px;
+  left:255px;
+}
+#cranehead {width:600px;
+  position:absolute;
+  top:700px;
+  left:32px;
+  z-index:10;
+}
+#crane {width:600px;
+  position:absolute;
+  top:700px;
+  left:150px;
+  z-index:0;
+}
