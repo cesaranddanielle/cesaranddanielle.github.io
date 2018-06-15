@@ -5,7 +5,7 @@ body{
   background:rgb(193, 235, 255);
 }
 #canvas{
-  width:900px;
+  width:800px;
   height:1000px;
   margin:0 auto;
   position:relative;
@@ -17,9 +17,10 @@ body{
   padding:2px;
   font-family: 'Poppins', sans-serif;
   text-align: center;
+  font-size: 1.5em;
   position:absolute;
   top:80px;
-  left:250px;
+  left:190px;
 }
 #bridge {width:750px;
   position:absolute;
