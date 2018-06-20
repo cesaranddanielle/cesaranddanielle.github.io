@@ -11,6 +11,11 @@ body{
   position:relative;
 
 }
+#plane {width:250px;
+  position:absolute;
+  top:60px;
+  left:8px;
+}
 #name {width:400px;
   background-color:black;
   color:white;
@@ -20,7 +25,7 @@ body{
   font-size: 1.5em;
   position:absolute;
   top:80px;
-  left:190px;
+  left:290px;
 }
 #bridge {width:750px;
   position:absolute;
