@@ -7,8 +7,9 @@
   background-size:cover;
 } */
 h1{
-  font-family: 'Righteous', cursive;
-  color: black;
+  font-family: 'Inconsolata', monospace;
+  color: white;
+  background: black;
 }
 h2, h3, h4, p{
   font-family: 'Karla', sans-serif;
