@@ -70,10 +70,21 @@ body{
   top:1420px;
   left:280px;
 }
+#flashtext {width:450px;
+  background-color:white;
+  color:red;
+  padding:2px;
+  text-align: center;
+  font-size: 1.5em;
+  font-family: 'Poppins', sans-serif;
+  position:absolute;
+  top:1630px;
+  left:225px;
+}
 
 #follow-request {width:500px;
   position:absolute;
-  top:1530px;
+  top:1630px;
   left:190px;
 }
 #requesttext {width:350px;
@@ -84,12 +95,12 @@ body{
   font-size: 1.5em;
   font-family: 'Poppins', sans-serif;
   position:absolute;
-  top:1960px;
+  top:2060px;
   left:280px;
 }
 #cellphone {width:500px;
   position:absolute;
-  top:2200px;
+  top:2300px;
   left:190px;
 }
 #cellphonetext {width:350px;
@@ -100,6 +111,22 @@ body{
   font-size: 1.5em;
   font-family: 'Poppins', sans-serif;
   position:absolute;
-  top:2720px;
+  top:2820px;
+  left:260px;
+}
+#clock {width:500px;
+  position:absolute;
+  top:2900px;
+  left:190px;
+}
+#clocktext {width:350px;
+  background-color:white;
+  color:black;
+  padding:2px;
+  text-align: center;
+  font-size: 1.5em;
+  font-family: 'Poppins', sans-serif;
+  position:absolute;
+  top:3320px;
   left:260px;
 }
