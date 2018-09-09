@@ -6,7 +6,7 @@ body{
 }
 #canvas{
   width:900px;
-  height:10000px;
+  height:4900px;
   margin:0 auto;
   position:relative;
 
@@ -128,5 +128,43 @@ body{
   font-family: 'Poppins', sans-serif;
   position:absolute;
   top:3320px;
+  left:260px;
+}
+#gradcap {width:500px;
+  position:absolute;
+  top:3500px;
+  left:190px;
+}
+#gradcaptext {width:350px;
+  background-color:white;
+  color:black;
+  padding:2px;
+  text-align: center;
+  font-size: 1.5em;
+  font-family: 'Poppins', sans-serif;
+  position:absolute;
+  top:4050px;
+  left:260px;
+}
+#gradcapline {width:550px;
+  background-color:black;
+  color:black;
+  padding:2px;
+  text-align: center;
+  font-size: 1.5em;
+  font-family: 'Poppins', sans-serif;
+  position:absolute;
+  top:4450px;
+  left:160px;
+}
+#endtext {width:350px;
+  background-color:white;
+  color:black;
+  padding:2px;
+  text-align: center;
+  font-size: 1.5em;
+  font-family: 'Poppins', sans-serif;
+  position:absolute;
+  top:4550px;
   left:260px;
 }
