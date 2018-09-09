@@ -17,12 +17,17 @@ ul li a{
   color: black;
   font-family: 'Karla', sans-serif;
 }
+a{
+  color: black;
+  font-family: 'Karla', sans-serif;
+}
 a:visited {
     color: black;
 }
-/* a:hover{
-  color: none;
-} */
+a:hover{
+  color: black;
+  text-decoration: underline;
+}
 
 .button{
   background: rgb(233, 206, 255);
