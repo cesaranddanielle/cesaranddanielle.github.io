@@ -2,11 +2,11 @@ h1, h2, h3, h4,p{
   font-family: 'Poppins', sans-serif;
 }
 body{
-  background:rgb(201, 213, 255);
+  background:rgb(219, 232, 255);
 }
 #canvas{
   width:900px;
-  height:4900px;
+  height:5150px;
   margin:0 auto;
   position:relative;
 
@@ -157,6 +157,11 @@ body{
   top:4450px;
   left:160px;
 }
+#textheart {width:500px;
+  position:absolute;
+  top:4400px;
+  left:190px;
+}
 #endtext {width:350px;
   background-color:white;
   color:black;
@@ -165,6 +170,6 @@ body{
   font-size: 1.5em;
   font-family: 'Poppins', sans-serif;
   position:absolute;
-  top:4550px;
+  top:4800px;
   left:260px;
 }
