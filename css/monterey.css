@@ -6,7 +6,7 @@ body{
 }
 #canvas{
   width:900px;
-  height:10000px;
+  height:2200px;
   margin:0 auto;
   position:relative;
 
@@ -15,6 +15,17 @@ body{
   position:absolute;
   top:20px;
   left:8px;
+}
+#date {width:400px;
+  background-color:black;
+  color:white;
+  padding:2px;
+  font-family: 'Poppins', sans-serif;
+  text-align: center;
+  font-size: 1.5em;
+  position:absolute;
+  top:80px;
+  left:245px;
 }
 #lunch {width:500px;
   position:absolute;
@@ -37,14 +48,52 @@ body{
   top:900px;
   left:190px;
 }
-#date {width:400px;
-  background-color:black;
-  color:white;
+#ottertext {width:250px;
+  background-color:white;
+  color:black;
   padding:2px;
-  font-family: 'Poppins', sans-serif;
   text-align: center;
   font-size: 1.5em;
+  font-family: 'Poppins', sans-serif;
   position:absolute;
-  top:80px;
-  left:245px;
+  top:1300px;
+  left:320px;
+}
+#shark {width:500px;
+  position:absolute;
+  top:1400px;
+  left:190px;
+}
+#sharktext {width:250px;
+  background-color:white;
+  color:black;
+  padding:2px;
+  text-align: center;
+  font-size: 1.5em;
+  font-family: 'Poppins', sans-serif;
+  position:absolute;
+  top:1750px;
+  left:320px;
+}
+#sharkline {width:550px;
+  background-color:black;
+  color:black;
+  padding:2px;
+  text-align: center;
+  font-size: 1.5em;
+  font-family: 'Poppins', sans-serif;
+  position:absolute;
+  top:1950px;
+  left:160px;
+}
+#wiptext {width:250px;
+  background-color:white;
+  color:black;
+  padding:2px;
+  text-align: center;
+  font-size: 1.5em;
+  font-family: 'Poppins', sans-serif;
+  position:absolute;
+  top:2000px;
+  left:320px;
 }
